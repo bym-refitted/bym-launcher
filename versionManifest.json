@@ -1,0 +1,14 @@
+{
+  "currentGameVersion": "0.2.3",
+  "currentLauncherVersion": "0.1.0",
+  "builds": {
+    "stable": "bymr-stable-v0.2.3-alpha.swf",
+    "http": "bymr-http-v0.2.3-alpha.swf",
+    "local": "bymr-local-v0.2.3-alpha.swf"
+  },
+  "flashRuntimes": {
+    "windows": "flashPlayer_windows.exe",
+    "darwin": "flashplayer32.dmg",
+    "linux": ""
+  }
+}

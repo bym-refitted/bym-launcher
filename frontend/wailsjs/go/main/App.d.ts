@@ -3,4 +3,4 @@
 
 export function InitializeApp():Promise<void>;
 
-export function LaunchGame(arg1:string,arg2:string):Promise<void>;
+export function LaunchGame(arg1:string,arg2:string,arg3:string):Promise<void>;
